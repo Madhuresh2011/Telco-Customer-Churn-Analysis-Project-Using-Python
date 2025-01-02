@@ -61,4 +61,4 @@ for early-stage customer loyalty programs.
 card users.
 - Contract Types: 42% churn for month-to-month contracts, 11% for yearly
 contracts, 3% for two-year contracts.
-- Tenure: 50% churn in the first year, dropping to 15% after three year
+- Tenure: 50% churn in the first year, dropping to 15% after three year.
