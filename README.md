@@ -56,9 +56,3 @@ cards.
 - Customertenure vs. churn rate visualizations reveal a clear declining
 trend in churn as customers' tenure increases, underscoring the need
 for early-stage customer loyalty programs.
-- Percentage Distribution of Churn Across Factors:
-- PaymentMethods: 45% churn for electronic check users, 15% for credit
-card users.
-- Contract Types: 42% churn for month-to-month contracts, 11% for yearly
-contracts, 3% for two-year contracts.
-- Tenure: 50% churn in the first year, dropping to 15% after three year.
