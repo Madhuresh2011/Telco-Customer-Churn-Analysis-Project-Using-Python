@@ -1,6 +1,7 @@
 # TELCO CUSTOMER CHURN ANALYSIS PROJECT USING PYTHON
 
-![telco imge](https://github.com/user-attachments/assets/2813fe64-f0b4-4b9b-b511-c4d2210e7de2)
+![telco imge](https://github.com/user-attachments/assets/b21367ae-9d55-451e-9b3c-75c0c0186061)
+
 
 
 
