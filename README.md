@@ -1,6 +1,7 @@
 # TELCO CUSTOMER CHURN ANALYSIS PROJECT USING PYTHON
 
-"C:\Users\madhu\OneDrive\Desktop\telco imge.webp"
+![Uploading telco imge.png…]()
+
 
 ## Objective:
 - The analysis primarily investigates factors influencing customer churn,
