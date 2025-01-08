@@ -1,4 +1,4 @@
-# TELCO CUSTOMER CHURN ANALYSIS
+# TELCO CUSTOMER CHURN ANALYSIS PROJECT USING PYTHON
 
 ## Objective:
 - The analysis primarily investigates factors influencing customer churn,
