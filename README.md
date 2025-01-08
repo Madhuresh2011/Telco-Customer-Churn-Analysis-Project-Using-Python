@@ -1,5 +1,7 @@
 # TELCO CUSTOMER CHURN ANALYSIS PROJECT USING PYTHON
 
+"C:\Users\madhu\OneDrive\Desktop\telco imge.webp"
+
 ## Objective:
 - The analysis primarily investigates factors influencing customer churn,
 particularly focusing on payment methods and contract types.
